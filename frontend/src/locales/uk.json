@@ -92,7 +92,7 @@
       "exportFailed": "Експорт не виконано",
       "fileQueuedWaitingBatchAnalysis": "Цей файл додано до черги, триває очікування запуску пакетного аналізу.",
       "frames": "Кадри:",
-      "freqResolution": "Частотное разрешение:",
+      "freqResolution": "Частотна роздільна здатність:",
       "freqResolutionShort": "Част. разреш.:",
       "audio": "AUDIO",
       "inspectSpectralContentEffectiveQuality": "Изучите спектральное содержимое и якість файлів FLAC, MP3, M4A и AAC",
